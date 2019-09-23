@@ -6,5 +6,4 @@ To use the API, key in 'beginner' or 'intermidiate' or 'advance' at the last pat
 The return records are JSON type.
 You may use SOAP UI to test the result.
 
-Best Regards
-Dhiyauddin Abd Aziz
+Have fun !
